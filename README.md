@@ -67,7 +67,8 @@ This portfolio documents my learning and development during the Work Readiness T
 
 ### 📄 Evidence
 - Submitted my final CV as part of the programme.
-- Evidence uploaded: `cv_submission_screenshot.png`
+- Evidence uploaded:
+![CV Submission screenshot](https://github.com/222334703/work-readiness-portfolio/blob/main/cv-submission.png)
 
 ### ✍️ Reflection (STAR Technique)
 - **S**: The last step was submitting my CV for review.
