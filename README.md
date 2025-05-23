@@ -53,7 +53,7 @@ This portfolio documents my learning and development during the Work Readiness T
 
 ### 📄 Evidence
 - Created my CV using the template provided during training.
-- Evidence uploaded: `vuyisa_mntanana_cv.pdf`
+![View My CV](https://github.com/222334703/work-readiness-portfolio/blob/main/Vuyisa%20Mntanana_Resume(1)%20(1).pdf)
 
 ### ✍️ Reflection (STAR Technique)
 - **S**: As part of our training, we had to build a CV.
