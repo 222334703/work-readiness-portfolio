@@ -16,7 +16,7 @@ This portfolio documents my learning and development during the Work Readiness T
 7. ## 1. 🎯 Career Counselling
 
 8. ### 📄 Evidence
-- I attended a career counselling session during the programme.
+- I attended a career counselling session during the programme and took a test.
 - Evidence uploaded:
 ! [Career Development Quiz Result](https://github.com/222334703/work-readiness-portfolio/blob/main/career-counselling--result.png.png)
 
