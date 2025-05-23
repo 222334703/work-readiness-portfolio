@@ -25,8 +25,7 @@ This portfolio documents my learning and development during the Work Readiness T
 ## 2. 🧠 Skills and Interests
 
 ### 📄 Evidence
-- Completed a skills and interests questionnaire.
-- Evidence uploaded: `skills_assessment_results.pdf`
+![Skills and Interests screenshot] (https://github.com/222334703/work-readiness-portfolio/blob/main/skills-and-interests.png)
 
 ### ✍️ Reflection (STAR Technique)
 - **S**: We were asked to complete an activity to identify our strengths and interests.
