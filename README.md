@@ -39,7 +39,7 @@ This portfolio documents my learning and development during the Work Readiness T
 
 ### 📄 Evidence
 - Took a personality test and received my results.
-- Evidence uploaded: `personality_test_results.pdf`
+![Personality Assessment Screenshot](https://github.com/222334703/work-readiness-portfolio/blob/main/skills-and-interests.png)
 
 ### ✍️ Reflection (STAR Technique)
 - **S**: I participated in a personality test during the training.
